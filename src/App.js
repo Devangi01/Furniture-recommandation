@@ -15,93 +15,93 @@ function generateStarts(num) {
   return <>{elementStr}</>;
 }
 
-var foods = {
+var furniture = {
   Bedroom: [
     {
-      name: "Khandavi",
+      name: "Use mirrors to give the illusion of added space.",
       image:
-        "https://www.gujarattourism.com/content/dam/gujrattourism/images/march/april/cuisine/khandvi/Khandvi.jpg",
+        "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_1103/project%20prism%2Fcolor%20search%20archive%2F755e9bb6337739beeb60a785ee1c51aeb83fa249",
       description:
-        "Soft rolls made of gram flour and tempered with coconut, mustard seeds, and curry leaves, these melt-in-the-mouth snacks are extremely appetising. The yellow, bite-sized snack is also made in Maharashtra as Dahivadi and Suralichi Vadi.",
+        "This popular design trick can totally work in your sleeping space, and is one of our favorite small bedroom ideas. Plus, a large and well-placed mirror will help filter extra light into your bedroom. A real win-win in our opinion",
       rating: "4"
     },
     {
-      name: "Khichu",
+      name: "Utilize below-the-bed storage",
       image:
-        "https://www.gujarattourism.com/content/gujrattourism/en/gujarati-cuisines/khichu/_jcr_content/root/responsivegrid/pagebanner.coreimg.jpeg/1594757315169/khichu-banner.jpeg",
+        "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_1100/at%2Fhouse%20tours%2F2019-12%2FLeslie%20S%2Fgirlsroom1",
       description:
-        "A thick porridge-like mixture made from rice flour and seasoned with cumin seeds and green chilli, khichu is served with a splash of groundnut oil and cayenne pepper.The dough can also be used to make rice papads! ",
+        "There’s no better place to store extra belongings than below your bed. Since the bed is already taking up a lot of floor space, it just makes sense. Some options? Choose a bed with built-in storage, use wooden storage crates, design your own drawers or even use pretty baskets to corral clutter. ",
       rating: "3"
     },
     {
-      name: "Dabeli",
+      name: "Get creative with foot-of-the-bed storage.",
       image:
-        "https://www.gujarattourism.com/content/gujrattourism/en/gujarati-cuisines/dabeli/_jcr_content/root/responsivegrid/pagebanner.coreimg.jpeg/1594757321361/shutterstock-1111938869-min.jpeg",
+        "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_582/at%2Fhouse%20tours%2Farchive%2Fchicken%20cat%2F5081f64625d3cb9ee6c879b0cc9fca1bc6fd36fb",
       description:
-        "This Kutchi cousin of the Mumbaiya vada pav is made by mixing mashed boiled potatoes with a special masala, and encasing the mixture in a ladi pav. The Kutchi Dabeli is garnished with pomegranate pearls and roasted peanuts.",
+        "Don’t limit yourself to plastic containers and closet storage cubes when there are so many types of storage available, particularly decorative pieces that you can leave out in plain view. Try an end-of-bed trunk or storage bench.",
       rating: "4"
     }
   ],
   Kitchen: [
     {
-      name: "Sandesh",
+      name: "Storage Space Open Kitchen",
       image:
-        "https://www.holidify.com/images/cmsuploads/compressed/Butterscotch_Ice_Cream_Sandesh_-_Rajarhat_-_North_24_Parganas_2013-06-15_0624_20170829124004.jpg",
+        "https://www.nobroker.in/blog/wp-content/uploads/2022/07/Storage-Space-Open-Kitchen-.jpg",
       description:
-        "this dish is made of khoya, a version of condensed milk and is heavenly in taste. This sweet is neither overly sweet thus allowing people with a non-sweet tooth to enjoy too.",
+        "Storage is a critical aspect of every kitchen, and modern small kitchen ideas make the best use of the available space. Individuals who have a limited amount of room but need an attractive and practical kitchen might benefit from a one-wall kitchen. ‘ With a one-wall layout, you have the best of both worlds: efficiency and utility.",
       rating: "3"
     },
     {
-      name: "Shukto",
+      name: "Overhead Racks for Hanging Pots",
       image:
-        "https://www.india.com/wp-content/uploads/2017/04/Vegetables_Curry_-_Kolkata_2011-03-10_1979.jpg",
+        "https://www.nobroker.in/blog/wp-content/uploads/2022/07/Overhead-Racks-For-Hanging-Pots.jpg",
       description:
-        "Shukto is a vegetarian delicacy made from bitter gourd, plantains, potatoes and radishes, cooked in Bengali panch phorn or the signature five spices of Bengali cuisine. It’s basically a mixed vegetable preparation, the Bengali style.",
+        "It’s clear why more and more people are installing pot racks in their kitchens. They’re great for storing things since they provide you with more room. In addition to being visually appealing and useful, they have been made considerably more accessible. Keeping heavy pots and vessels in cupboards takes up a lot of counter space in kitchens designed for small spaces, which is already a problem in small kitchens. ",
       rating: "3"
     },
     {
-      name: "Luchi",
+      name: "Metallic Sheen Kitchen ",
       image:
-        "https://www.holidify.com/images/cmsuploads/compressed/Luchi(Puri),_Dum_Aloo_20170829121242.JPG",
+        "https://www.nobroker.in/blog/wp-content/uploads/2022/07/Metallic-Sheen-Kitchen-.jpg",
       description:
-        "A deep-fry delicacy, no Bengali household can ever complete a celebration without Luchis. Prepared with maida instead of the atta flour which is used to make chapattis, this delicacy looks like smaller sized, fluffy, deep-fried chapattis, with a golden glow.",
+        "For a limited space small modern kitchen design, the use of stainless steel provides the area with a very contemporary and trendy aspect. A sleek silvery sheen reflects the surrounding surroundings, making the area seem larger and more intriguing while adding dimension and depth to the small kitchen pop design.",
       rating: "4"
     }
   ],
   Storage: [
     {
-      name: "Puran Poli",
+      name: "Magazine Holders for Storing Veggies",
       image:
-        "https://www.holidify.com/blog/wp-content/uploads/2015/10/4906487062_16ab748874_z.jpg",
+        "https://www.thespruce.com/thmb/RAH3OmyYvQN_nnXijRNyf9WCJP8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ftuytug-5c030aaa46e0fb0001cdfd69.jpeg",
       description:
-        "This delectable food item is a sweet version of the loving parantha. The stuffing is made from jaggery (gur), yellow gram (chana) dal, plain flour, cardamom powder and ghee (clarified butter)",
+        "Magazine holders are surprisingly versatile when it comes to home storage solutions. You can use them to store root vegetables in your cabinets or any other cool, dry place.",
       rating: "4"
     },
     {
-      name: "Misal Pav",
+      name: "Organize Your Water Bottles and Travel Mugs",
       image:
-        "https://www.holidify.com/blog/wp-content/uploads/2015/11/Maharashtras_Misal_Pav.jpg",
+        "https://www.thespruce.com/thmb/mQiKgtMXTqDmGhptZUNWzlKccNo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PolishedHabitat-5921b4475f9b58f4c065cabb.jpg",
       description:
-        "It has a spicy and tangy lentil curry which is made with moth beans and is served with Pav bread. At times, it is eaten with yoghurt to lessen the spice. Although it is a breakfast food",
+        "This storage idea may seem simple and obvious, but travel mugs and water bottles aren't the easiest things to organize. How often have you hunted through your cabinets looking for a travel coffee mug while on the way out the door? By labeling dishpans or shallow bins for smarter, more compact storage, you'll never waste time searching again.",
       rating: "3"
     },
     {
-      name: "Ragda Pattice",
+      name: "DIY Plastic Bag Dispenser",
       image:
-        "https://www.holidify.com/blog/wp-content/uploads/2015/11/Indian_cuisine-Ragda_contained_in_panipuri.jpg",
+        "https://www.thespruce.com/thmb/qK-IV2_0HY1XBl7GavMYYzHwppY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ertdr-5c030f8546e0fb00018ed6d9.jpeg",
       description:
-        "It is a yet another lip-smacking street food in Mumbai which is prepared by using curried dried peas and patties. These potato patties are dipped in the Ragda gravy and topped with chaat chutneys, finely chopped onions, tomatoes, crispy sev and cilantro.",
+        "The idea of repurposing an item rather than throwing it away is not a new concept, but when a good idea comes along, especially one so simple, it feels like a spark of genius. Save your empty tissue box to keep plastic bags organized and within easy reach.",
       rating: "4"
     }
   ]
 };
-var cities = Object.keys(foods);
+var cities = Object.keys(furniture);
 
 export default function App() {
-  var [foodCity, setFoodCity] = useState("Bedroom");
+  var [furnitureidea, setfurnitureidea] = useState("Bedroom");
   function onClickHandler(event) {
     var city = event.target.innerText;
-    setFoodCity(city);
+    setfurnitureidea(city);
   }
   return (
     <div className="App">
@@ -136,7 +136,8 @@ export default function App() {
                 border: "2px solid black",
                 marginTop: "1rem",
                 borderRadius: "0.5rem",
-                backgroundColor: foodCity === city ? "#F8A802" : "transparent"
+                backgroundColor:
+                  furnitureidea === city ? "#F8A802" : "transparent"
               }}
               key={city}
               onClick={onClickHandler}
@@ -154,11 +155,11 @@ export default function App() {
             marginTop: "2rem"
           }}
         >
-          {foods[foodCity].map((food) => {
+          {furniture[furnitureidea].map((furniture) => {
             return (
               <>
                 <li
-                  key={food.name}
+                  key={furniture.name}
                   style={{
                     display: "flex",
                     flexDirection: "column",
@@ -172,7 +173,7 @@ export default function App() {
                       marginBlockEnd: "0"
                     }}
                   >
-                    {food.name}
+                    {furniture.name}
                   </h3>
 
                   <div
@@ -184,8 +185,8 @@ export default function App() {
                     }}
                   >
                     <img
-                      alt={food.name}
-                      src={food.image}
+                      alt={furniture.name}
+                      src={furniture.image}
                       style={{
                         height: "150px",
                         width: "150px",
@@ -203,8 +204,8 @@ export default function App() {
                         borderRadius: "0.5rem"
                       }}
                     >
-                      <p>{food.description}</p>
-                      {generateStarts(food.rating)}
+                      <p>{furniture.description}</p>
+                      {generateStarts(furniture.rating)}
                     </div>
                   </div>
                 </li>
