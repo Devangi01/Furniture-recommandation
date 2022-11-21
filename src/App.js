@@ -6,7 +6,7 @@ function generateStarts(num) {
   for (let i = 1; i <= 5; i++) {
     if (i <= num) {
       elementStr.push(
-        <span class="fa fa-star" style={{ color: "orange" }}></span>
+        <span class="fa fa-star" style={{ color: "red" }}></span>
       );
     } else {
       elementStr.push(<span class="fa fa-star"></span>);
@@ -127,17 +127,14 @@ export default function App() {
           return (
             <li
               style={{
-                listStyle: "none",
                 cursor: "pointer",
                 fontSize: "1.5rem",
                 display: "inline-block",
                 marginRight: "0.5rem",
                 padding: "0.5rem 1rem",
-                border: "2px solid black",
-                marginTop: "1rem",
                 borderRadius: "0.5rem",
                 backgroundColor:
-                  furnitureidea === city ? "#F8A802" : "transparent"
+                  furnitureidea === city ? "#d9f99d" : "transparent"
               }}
               key={city}
               onClick={onClickHandler}
